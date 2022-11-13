@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646581174164",
+    "project_id": "ongap-3e400",
+    "storage_bucket": "ongap-3e400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646581174164:android:45b80d9cd6107faa501981",
+        "android_client_info": {
+          "package_name": "com.aminaja.ongap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646581174164-r98jqar7hvp3hn73edn065p00q79k8ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aminaja.ongap",
+            "certificate_hash": "4b385b827fb4bc94fdc7b0bc878916052e8e6bfc"
+          }
+        },
+        {
+          "client_id": "646581174164-mc37q88pl7u2oggv2o1qce6peb7g9ppa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_6ZXCbzzJYZRRb4YYQpEUTDSN2kmFI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646581174164-mc37q88pl7u2oggv2o1qce6peb7g9ppa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ongap</string>
+    <string name="no_description">no description</string>
+    <string name="register_ask">Don\'t have an account?</string>
+    <string name="login_ask">Already have an account?</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="title_login">Login</string>
+    <string name="auth_description">Kode Otentikasi sudah dikirimkan ke telepon seluler anda %1$s.</string>
+    <string name="min">-</string>
+    <string name="warning_empty_field">Please fill out the field!</string>
+</resources>
